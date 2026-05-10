@@ -1,0 +1,90 @@
+{
+  "name": "FCA Complaints Pro Theme",
+  "dataColors": [
+    "#00A6A6",
+    "#F5A623",
+    "#C0392B",
+    "#6C757D",
+    "#2E7D32",
+    "#8E44AD",
+    "#4B6A88",
+    "#1F1F1F"
+  ],
+  "background": "#F5F7FA",
+  "foreground": "#2B2B2B",
+  "tableAccent": "#00A6A6",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "color": {
+              "solid": {
+                "color": "#1F1F1F"
+              }
+            },
+            "fontSize": 12,
+            "fontFamily": "Segoe UI"
+          }
+        ],
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#E0E0E0"
+              }
+            }
+          }
+        ],
+        "legend": [
+          {
+            "labelColor": {
+              "solid": {
+                "color": "#2B2B2B"
+              }
+            }
+          }
+        ],
+        "categoryAxis": [
+          {
+            "labelColor": {
+              "solid": {
+                "color": "#2B2B2B"
+              }
+            },
+            "gridlineColor": {
+              "solid": {
+                "color": "#E0E0E0"
+              }
+            }
+          }
+        ],
+        "valueAxis": [
+          {
+            "labelColor": {
+              "solid": {
+                "color": "#2B2B2B"
+              }
+            },
+            "gridlineColor": {
+              "solid": {
+                "color": "#E0E0E0"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
