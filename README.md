@@ -150,6 +150,7 @@ This view reinforces the concentration of risk within specific sectors rather th
 6. Export to analytical datasets for modelling and dashboarding
 
 📁 Repository Structure
+```
 fca-complaints/
 │
 ├── data/
@@ -171,7 +172,7 @@ fca-complaints/
 │   ├── modelling/
 │   │   ├── elbow_curve.png
 │   │   ├── clustering.png
-│   │   ├── classification.png
+│   │   └── classification.png
 │   │
 │   └── insights/
 │       ├── firm_trajectory.png
@@ -185,7 +186,7 @@ fca-complaints/
 ├── pipeline.py
 ├── FCA_Complaints_Dashboard.pbix
 └── README.md
-
+```
 ⚠️ Limitations
 -Analysis based on aggregated biannual firm-level data (no individual complaint-level granularity)
 -Sector classification is rule-based and may introduce minor misclassification
